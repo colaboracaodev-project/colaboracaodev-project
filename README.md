@@ -15,7 +15,7 @@ Obs.: Quem estiver responsável por liderar deverá fazer o testes finais juntan
 
 Fiquem tranquilos, pois a maioria, se não todos, são iniciantes e o objetivo aqui e compartilhar conhecimento ok. 
 
-Time 1:
+## Time 1:
 Escudero
 Sabrina Farias
 Valmario Lopes
@@ -24,7 +24,7 @@ Tatiane Ferreira
 Wesley Batista
 
 
-Time 2:
+## Time 2:
 Ana carolina Silveira
 Francinaldo Lima
 Gabriel Araújo
@@ -32,7 +32,7 @@ Henrique Santos
 João Vitor
 Leandro Nascimento
 
-Time 3:
+## Time 3:
 Anniely Oliveira
 Lucas Lima
 Luiz Henrique
@@ -40,20 +40,20 @@ Marcio
 Marcos Antônio
 Michael Tavares
 
-Time 4:
+## Time 4:
 Brenda Falcão
 Nathalia F Santos
 Nilson Xavier
 Pedro Parei
 Rafael Oliveira
 Reinson Reihr
+<br>
+Links para os projetos de cada Time Dev - período (03/01/23 à 07/01/23). <br>
+Time 1: https://trello.com/b/faISeGO8/calculadora-de-rescis%C3%A3o-trabalhista-time-1 <br>
+Time 2: https://trello.com/b/NyMli472/calculadora-de-rescis%C3%A3o-trabalhista-time-2 <br>
+Time 3: https://trello.com/b/4O0TshAe/calculadora-de-rescis%C3%A3o-trabalhista-time-3 <br>
+Time 4: https://trello.com/b/Wm7P3J1w/calculadora-de-rescis%C3%A3o-trabalhista-time-4 <br>
 
-Links para os projetos de cada Time Dev - período (03/01/23 à 07/01/23).
-Time 1: https://trello.com/b/faISeGO8/calculadora-de-rescis%C3%A3o-trabalhista-time-1
-Time 2: https://trello.com/b/NyMli472/calculadora-de-rescis%C3%A3o-trabalhista-time-2
-Time 3: https://trello.com/b/4O0TshAe/calculadora-de-rescis%C3%A3o-trabalhista-time-3
-Time 4: https://trello.com/b/Wm7P3J1w/calculadora-de-rescis%C3%A3o-trabalhista-time-4
-
-Link para o Metting de Sábado 07/01/23 às 20hr: meet.google.com/qfe-mcaq-fdb
-
-Segue link sobre como utilizar o GITHUB: https://drive.google.com/file/d/1Ockmp_r_L3G6b9jmRVFeeGoiJ_pqKOzM/view?usp=drivesdk
+Link para o Metting de Sábado 07/01/23 às 20hr: meet.google.com/qfe-mcaq-fdb <br>
+<br>
+Segue link sobre como utilizar o GITHUB: https://drive.google.com/file/d/1Ockmp_r_L3G6b9jmRVFeeGoiJ_pqKOzM/view?usp=drivesdk <br>
