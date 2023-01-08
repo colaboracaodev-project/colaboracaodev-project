@@ -2,7 +2,7 @@
 Orientações sobre o Projeto aqui...
 
 ## Discord
-  - Discord do Projeto: https://discord.gg/QdTHsANY 
+  - Discord do Projeto: <a href="https://discord.gg/QdTHsANY" target="_blank">link</a>
 
 ## Links Importantes:
  - Como usar o GitHub: https://drive.google.com/file/d/1-CAcowROma9chVe77HKMKJ6BUx2eRPL4/view?usp=sharing
