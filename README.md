@@ -29,7 +29,7 @@ Orientações sobre o Projeto aqui...
 
 ## Times e seus integrantes
  - Team Black:
-    - Escudero
+    - Escudero PO
     - Rita Carvalho
     - Francivaldo Lima de Sousa 
     - Valmário Lopes
@@ -39,12 +39,12 @@ Orientações sobre o Projeto aqui...
     - Tatiane Ferreira do Nascimento 
 
 - Team White:
+    - Rayanne Bertolace PO
     - Leandro Nascimento de Santana Pina
     - Bruno Mateus
     - Michael Tavares
     - Dener Garcia
     - Rafael Herbster de Sena Maciel
-    - Rayanne
 
 - Team Red:
     - Anniely Oliveira Reis 
