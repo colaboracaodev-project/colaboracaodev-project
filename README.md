@@ -2,10 +2,10 @@
 Orientações
 
 ## Links Importantes:
- - GitHUb do Projeto: https://github.com/colaboracaodev-project
  - Como usar o GitHub: https://drive.google.com/file/d/1-CAcowROma9chVe77HKMKJ6BUx2eRPL4/view?usp=sharing
 
  ## Repositórios dos Times no GitHub
+ - GitHub do Projeto: https://github.com/colaboracaodev-project
  - Team Black: https://github.com/colaboracaodev-project/black
  - Team White: https://github.com/colaboracaodev-project/white
  - Team Red: https://github.com/colaboracaodev-project/red
