@@ -43,7 +43,7 @@ Orientações sobre o Projeto aqui...
     - Leandro Nascimento de Santana Pina
     - Bruno Mateus
     - Michael Tavares
-    - Dener Garcia
+    - Denner Garcia
     - Rafael Herbster de Sena Maciel
 
 - Team Red:
