@@ -17,10 +17,15 @@ Orientações sobre o Projeto aqui...
  - Team Green: https://github.com/colaboracaodev-project/green
 
 ## Trello dos Times
- - Links para os projetos de cada Time Dev - período (03/01/23 à 07/01/23). <br>
+ - Team Black: https://trello.com/b/APWTiZW1/calculadora-de-rescis%C3%A3o-trabalhista-team-black
+ - Team White: https://trello.com/b/a6UoyPl1/calculadora-de-rescis%C3%A3o-trabalhista-team-white
+ - Team Red: https://trello.com/b/6QCEUN2h/calculadora-de-rescis%C3%A3o-trabalhista-team-red
+ - Team Yellow: https://trello.com/b/wGZdsbN4/calculadora-de-rescis%C3%A3o-trabalhista-team-yellow
+ - Team Green: https://trello.com/b/JSVklrn8/calculadora-de-rescis%C3%A3o-trabalhista-team-green
 
 ## Projeto Atual
- - a definir;
+ - Calculadora Recisão Trabalhista v. 2.0
+    - Assista o vídeo: https://drive.google.com/file/d/1zn5L38MjRb2m5kv03aR82dskSly5riWf/view?usp=sharing
 
 ## Times e seus integrantes
  - Team Black:
