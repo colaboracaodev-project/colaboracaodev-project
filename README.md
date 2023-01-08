@@ -19,4 +19,46 @@ Orientações
  - a definir;
 
 ## Times e seus integrantes
- - a definir;
+ - Team Black:
+  - Escudero
+  - Rita Carvalho
+  - Francivaldo Lima de Sousa 
+  - Valmário Lopes
+  - Tais Defante
+  - Leticia Maria Lima Barros
+  - Bruno Acuna
+  - Tatiane Ferreira do Nascimento 
+
+- Team White:
+  - Leandro Nascimento de Santana Pina
+  - Bruno Mateus
+  - Michael Tavares
+  - Dener Garcia
+  - Rafael Herbster de Sena Maciel
+  - Rayanne
+
+- Team Red:
+  - Anniely Oliveira Reis 
+  - Telmo Bezerra da Silva Junior 
+  - Henrique de Oliveira Santos 
+  - Nilson Reis Xavier
+  - Ana Carolina da Silveira de Souza
+  - Pedro Parro 
+  - Rafael Oliveira
+
+- Team Yellow:
+  - Silvio Henrique Costa Correia 
+  - Yang Silva Encarnação
+  - João Victor
+  - Nathalia France P. dos Santos
+  - Michelle da silva conceição
+  - Fernando Borel
+
+- Team Green:	
+  - Wallace bezerra da Silva 
+  - Márcio 
+  - Lucas Lima de Sousa
+  - Jaiane Souza Oliveira
+  - Samuel Anselmo
+  - Vinicius Santos 
+  - Lucas Da Silva Assis
