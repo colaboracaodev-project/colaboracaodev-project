@@ -1,5 +1,5 @@
 # colaboracaodev-project
-Orientações
+Orientações sobre o Projeto aqui...
 
 ## Links Importantes:
  - Como usar o GitHub: https://drive.google.com/file/d/1-CAcowROma9chVe77HKMKJ6BUx2eRPL4/view?usp=sharing
