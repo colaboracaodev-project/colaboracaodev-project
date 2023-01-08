@@ -1,6 +1,8 @@
 # colaboracaodev-project
 Orientações
 
+Palmeiras não tem mundial
+
 Pessoal,
 
 Segue vídeo de apresentação do Projeto dessa semana: https://drive.google.com/file/d/1Q0tOc3TNN7BryXpzqNlEHZ76NdRiy2zU/view?usp=sharing
