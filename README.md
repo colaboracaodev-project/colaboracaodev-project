@@ -1,9 +1,12 @@
 # colaboracaodev-project
 Orientações sobre o Projeto aqui...
 
+## Discord
+  - Discord do Projeto: https://discord.gg/QdTHsANY 
+
 ## Links Importantes:
  - Como usar o GitHub: https://drive.google.com/file/d/1-CAcowROma9chVe77HKMKJ6BUx2eRPL4/view?usp=sharing
- - Discord do Projeto: https://discord.gg/QdTHsANY 
+ - Como usar o Discord: https://drive.google.com/file/d/1Tk1KjwuvTTjAm-xSJdqiH21cyaGFIJFc/view?usp=sharing
 
  ## Repositórios dos Times no GitHub
  - GitHub do Projeto: https://github.com/colaboracaodev-project
