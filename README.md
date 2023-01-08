@@ -29,14 +29,6 @@ Orientações sobre o Projeto aqui...
     - Bruno Acuna
     - Tatiane Ferreira do Nascimento 
 
-- Team Black:
-    - Leandro Nascimento de Santana Pina
-    - Bruno Mateus
-    - Michael Tavares
-    - Dener Garcia
-    - Rafael Herbster de Sena Maciel
-    - Rayanne
-
 - Team White:
     - Leandro Nascimento de Santana Pina
     - Bruno Mateus
