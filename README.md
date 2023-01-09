@@ -30,12 +30,12 @@ Orientações sobre o Projeto aqui...
 ## Times e seus integrantes
  - Team Black:
     - [Escudero - PO]
+    - Nathalia France P. dos Santos ==
     - Rita Carvalho
     - Francivaldo Lima de Sousa 
     - Valmário Lopes
     - Tais Defante
     - Leticia Maria Lima Barros
-    - Bruno Acuna
     - Tatiane Ferreira do Nascimento 
 
 - Team White:
@@ -47,7 +47,7 @@ Orientações sobre o Projeto aqui...
     - Rafael Herbster de Sena Maciel
 
 - Team Red:
-    - [Leandro Nascimento de Santana Pina - PO]
+    - [Leandro Nascimento de Santana Pina - PO] ==
     - Anniely Oliveira Reis 
     - Telmo Bezerra da Silva Junior 
     - Henrique de Oliveira Santos 
@@ -59,7 +59,7 @@ Orientações sobre o Projeto aqui...
     - Silvio Henrique Costa Correia 
     - Yang Silva Encarnação
     - João Victor
-    - Nathalia France P. dos Santos
+    - Bruno Acuna
     - Michelle da silva conceição
     - Fernando Borel
 
