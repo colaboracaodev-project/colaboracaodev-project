@@ -29,7 +29,7 @@ Orientações sobre o Projeto aqui...
 
 ## Times e seus integrantes
  - Team Black:
-    - Escudero PO
+    - [Escudero - PO]
     - Rita Carvalho
     - Francivaldo Lima de Sousa 
     - Valmário Lopes
@@ -39,21 +39,21 @@ Orientações sobre o Projeto aqui...
     - Tatiane Ferreira do Nascimento 
 
 - Team White:
-    - Rayanne Bertolace PO
-    - Leandro Nascimento de Santana Pina
+    - [Rayanne Bertolace - PO]
+    - Rafael Oliveira
     - Bruno Mateus
     - Michael Tavares
     - Denner Garcia
     - Rafael Herbster de Sena Maciel
 
 - Team Red:
+    - [Leandro Nascimento de Santana Pina - PO]
     - Anniely Oliveira Reis 
     - Telmo Bezerra da Silva Junior 
     - Henrique de Oliveira Santos 
     - Nilson Reis Xavier
     - Ana Carolina da Silveira de Souza
     - Pedro Parro 
-    - Rafael Oliveira
 
 - Team Yellow:
     - Silvio Henrique Costa Correia 
@@ -64,7 +64,7 @@ Orientações sobre o Projeto aqui...
     - Fernando Borel
 
 - Team Green:	
-    - Jaiane Souza Oliveira PO
+    - [Jaiane Souza Oliveira - PO]
     - Wallace bezerra da Silva 
     - Márcio R
     - Lucas Lima de Sousa
