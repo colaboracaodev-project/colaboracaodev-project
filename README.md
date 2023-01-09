@@ -30,7 +30,7 @@ Orientações sobre o Projeto aqui...
 ## Times e seus integrantes
  - Team Black:
     - [Escudero - PO]
-    - Nathalia France P. dos Santos ==
+    - Nathalia France P. dos Santos
     - Rita Carvalho
     - Francivaldo Lima de Sousa 
     - Valmário Lopes
@@ -40,14 +40,14 @@ Orientações sobre o Projeto aqui...
 
 - Team White:
     - [Rayanne Bertolace - PO]
-    - Rafael Oliveira
+    - Rafael Oliveira ==
     - Bruno Mateus
     - Michael Tavares
     - Denner Garcia
     - Rafael Herbster de Sena Maciel
 
 - Team Red:
-    - [Leandro Nascimento de Santana Pina - PO] ==
+    - [Leandro Nascimento de Santana Pina - PO]
     - Anniely Oliveira Reis 
     - Telmo Bezerra da Silva Junior 
     - Henrique de Oliveira Santos 
