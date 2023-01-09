@@ -64,10 +64,10 @@ Orientações sobre o Projeto aqui...
     - Fernando Borel
 
 - Team Green:	
+    - Jaiane Souza Oliveira PO
     - Wallace bezerra da Silva 
     - Márcio 
     - Lucas Lima de Sousa
-    - Jaiane Souza Oliveira
     - Samuel Anselmo
     - Vinicius Santos 
     - Lucas Da Silva Assis
