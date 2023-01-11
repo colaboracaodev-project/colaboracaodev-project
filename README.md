@@ -46,7 +46,7 @@ Orientações sobre o Projeto aqui...
     - Rafael Herbster
 
 - Team Red:
-    - [Leandro Nascimento de Santana Pina - PO]
+    - [Leandro Santana - PO]
     - Anniely Oliveira Reis 
     - Ana Carolina da Silveira de Souza
     - João Vitor - Dicous Dev
