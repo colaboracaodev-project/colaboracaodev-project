@@ -40,7 +40,7 @@ Orientações sobre o Projeto aqui...
 
 - Team White:
     - [Rayanne Bertolace - PO]
-    - Rafael Oliveira ==
+    - Rafael Oliveira
     - Bruno Mateus
     - Michael Tavares
     - Denner Garcia
