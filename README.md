@@ -34,33 +34,26 @@ Orientações sobre o Projeto aqui...
     - Rita Carvalho
     - Francivaldo Lima de Sousa 
     - Valmário Lopes
-    - Tais Defante
+    - * Tais Defante
     - Leticia Maria Lima Barros
     - Tatiane Ferreira do Nascimento 
 
 - Team White:
     - [Rayanne Bertolace - PO]
-    - Rafael Oliveira
     - Bruno Mateus
     - Michael Tavares
     - Denner Garcia
-    - Rafael Herbster de Sena Maciel
+    - Rafael Herbster
 
 - Team Red:
     - [Leandro Nascimento de Santana Pina - PO]
     - Anniely Oliveira Reis 
-    - Telmo Bezerra da Silva Junior 
-    - Henrique de Oliveira Santos 
-    - Nilson Reis Xavier
     - Ana Carolina da Silveira de Souza
-    - Pedro Parro 
 
 - Team Yellow:
     - Silvio Henrique Costa Correia 
     - Yang Silva Encarnação
-    - João Victor
     - Bruno Acuna
-    - Michelle da silva conceição
     - Fernando Borel
 
 - Team Green:	
