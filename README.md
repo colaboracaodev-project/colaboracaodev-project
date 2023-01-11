@@ -34,8 +34,8 @@ Orientações sobre o Projeto aqui...
     - Rita Carvalho
     - Francivaldo Lima de Sousa 
     - Valmário Lopes
-    - * Tais Defante
-    - Leticia Maria Lima Barros
+    - Tais Defante
+    - * Leticia Maria Lima Barros
     - Tatiane Ferreira do Nascimento 
 
 - Team White:
@@ -49,6 +49,7 @@ Orientações sobre o Projeto aqui...
     - [Leandro Nascimento de Santana Pina - PO]
     - Anniely Oliveira Reis 
     - Ana Carolina da Silveira de Souza
+    - João Vitor - Dicous Dev
 
 - Team Yellow:
     - Silvio Henrique Costa Correia 
