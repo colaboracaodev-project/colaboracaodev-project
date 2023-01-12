@@ -53,6 +53,7 @@ Orientações sobre o Projeto aqui...
     - João Vitor - Dicous Dev
     - Brenda Barros
     - Lucas Carvalho Fernandes - Luke_ofer
+    - Luis Coelho
 
 - Team Yellow:
     - Silvio Henrique Costa Correia 
