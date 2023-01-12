@@ -61,7 +61,7 @@ Orientações sobre o Projeto aqui...
     - Fernando Borel
     - Guilherme Jacó *
     - Mariana Capelari *
-    - Israel Santana *
+    - Israel Santana
 
 - Team Green:	
     - [Jaiane Souza Oliveira - PO]
