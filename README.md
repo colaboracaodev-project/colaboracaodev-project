@@ -44,14 +44,14 @@ Orientações sobre o Projeto aqui...
     - Michael Tavares
     - Denner Garcia
     - Rafael Herbster
-    - Josué Silva *
+    - Josué Luz
 
 - Team Red:
     - [Leandro Santana - PO]
     - Anniely Oliveira Reis 
     - Ana Carolina da Silveira de Souza
     - João Vitor - Dicous Dev
-    - Breanda Barros *
+    - Brenda Barros
     - Lucas Carvalho Fernandes *
 
 - Team Yellow:
