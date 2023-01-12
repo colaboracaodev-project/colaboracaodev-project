@@ -56,6 +56,7 @@ Orientações sobre o Projeto aqui...
     - Yang Silva Encarnação
     - Bruno Acuna
     - Fernando Borel
+    - Guilherme Jacó *
 
 - Team Green:	
     - [Jaiane Souza Oliveira - PO]
