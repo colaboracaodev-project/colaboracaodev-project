@@ -59,7 +59,7 @@ Orientações sobre o Projeto aqui...
     - Yang Silva Encarnação
     - Bruno Acuna
     - Fernando Borel
-    - Guilherme Jacó *
+    - Guilherme Jacó
     - Mariana Capelari *
     - Israel Santana
 
