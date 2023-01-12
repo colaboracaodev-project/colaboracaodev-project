@@ -60,7 +60,7 @@ Orientações sobre o Projeto aqui...
     - Bruno Acuna
     - Fernando Borel
     - Guilherme Jacó
-    - Mariana Capelari *
+    - Mariana Capelari
     - Israel Santana
 
 - Team Green:	
