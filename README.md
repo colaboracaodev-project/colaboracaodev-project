@@ -60,7 +60,6 @@ Orientações sobre o Projeto aqui...
 - Team Green:	
     - [Jaiane Souza Oliveira - PO]
     - Wallace bezerra da Silva 
-    - Márcio R
     - Lucas Lima de Sousa
     - Samuel Anselmo
     - Vinicius Santos 
