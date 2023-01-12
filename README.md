@@ -52,7 +52,7 @@ Orientações sobre o Projeto aqui...
     - Ana Carolina da Silveira de Souza
     - João Vitor - Dicous Dev
     - Brenda Barros
-    - Lucas Carvalho Fernandes *
+    - Lucas Carvalho Fernandes
 
 - Team Yellow:
     - Silvio Henrique Costa Correia 
