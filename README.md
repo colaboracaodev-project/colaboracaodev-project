@@ -35,7 +35,7 @@ Orientações sobre o Projeto aqui...
     - Francivaldo Lima de Sousa 
     - Valmário Lopes
     - Tais Defante
-    - Danielle Flaviane **
+    - Danielle Flaviane
     - Tatiane Ferreira do Nascimento 
 
 - Team White:
