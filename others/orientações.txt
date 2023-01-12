@@ -1,0 +1,10 @@
+Pronto,   
+
+Já te add ao repositório do seu time.  Seu time será Red.  Agora preciso que siga os passos abaixo:  
+
+1 - acesse o repositório de orientações no link: https://github.com/colaboracaodev-project 
+2 - leia as orientações e assista os vídeos; 
+3 - clique no link do convite do Discord e ao entrar digite @ADM; 
+4 - clique no link do Trello do seu time;  
+
+Após cumprir essas etapas poderei liberar todos os acessos e vc poderá iniciar no projeto.
