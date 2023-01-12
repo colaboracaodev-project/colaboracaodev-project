@@ -35,7 +35,7 @@ Orientações sobre o Projeto aqui...
     - Francivaldo Lima de Sousa 
     - Valmário Lopes
     - Tais Defante
-    - * Leticia Maria Lima Barros
+    - Danielle Flaviane **
     - Tatiane Ferreira do Nascimento 
 
 - Team White:
@@ -44,12 +44,15 @@ Orientações sobre o Projeto aqui...
     - Michael Tavares
     - Denner Garcia
     - Rafael Herbster
+    - Josué Silva *
 
 - Team Red:
     - [Leandro Santana - PO]
     - Anniely Oliveira Reis 
     - Ana Carolina da Silveira de Souza
     - João Vitor - Dicous Dev
+    - Breanda Barros *
+    - Lucas Carvalho Fernandes *
 
 - Team Yellow:
     - Silvio Henrique Costa Correia 
@@ -57,6 +60,8 @@ Orientações sobre o Projeto aqui...
     - Bruno Acuna
     - Fernando Borel
     - Guilherme Jacó *
+    - Mariana Capelari *
+    - Israel Santana *
 
 - Team Green:	
     - [Jaiane Souza Oliveira - PO]
