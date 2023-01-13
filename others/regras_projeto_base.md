@@ -60,4 +60,5 @@ Estilizar o HTML e acordo com sua criatividade;
 - recebe como parâmetro o retorno de todas as funções calcula;
 - fórmula: somar o retorno das funções saldoSalario , feriasVencidas , feriasProporcionais , decimoTerceiroProporcional , avisoPrevioIdenizado , multaRescisoria;
 - retorno: retornar o resultado da soma
-    
+
+   
